@@ -3,10 +3,15 @@ HR Analytics Projects :
 This project showcases interactive HR Analytics Dashboards built to analyze employee attrition, income trends, work-life balance,job satisfaction rate and more. The dashboards visualize KPIs such as:
 
 1.Attrition Rate by Department
+
 2.Average Monthly Income by Job Role
+
 3.Education Background of Active Employees
+
 4.Work-Life Balance and job satisfaction Ratings
+
 5.Gender, Marital Status & Age Distribution
+
 6.Average working years by Department
 
 These visualizations were created using Power BI and Excel and also used SQL offering insights to support data-driven HR decisions.
@@ -25,6 +30,7 @@ Insights:
 4. Most active employees have backgrounds in Medical and Life Sciences (~17% each).
 5. Job satisfaction varies; Sales and Lab Technician roles show lower satisfaction.
 6. Income doesn't directly reduce attrition—non-monetary factors also affect employee retention.
+
 
 ![Screenshot 2025-06-18 222100](https://github.com/user-attachments/assets/283024a3-0d44-4dff-a6b5-269e52992e56)
 
