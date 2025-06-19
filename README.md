@@ -27,8 +27,11 @@ Insights:
 6. Income doesn't directly reduce attrition—non-monetary factors also affect employee retention.
 
 ![Screenshot 2025-06-18 222100](https://github.com/user-attachments/assets/283024a3-0d44-4dff-a6b5-269e52992e56)
+
 ![Screenshot 2025-06-18 222221](https://github.com/user-attachments/assets/7f5cf241-8726-47d6-971e-310f184280de)
+
 ![Screenshot 2025-06-18 221001](https://github.com/user-attachments/assets/959c7536-a9af-4953-a830-9748611e681e)
+
 ![Screenshot 2025-06-18 221025](https://github.com/user-attachments/assets/5be20917-a35d-495d-913c-cf30c44353b7)
 
 
